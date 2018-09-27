@@ -1,0 +1,14 @@
+{
+  "name": "balancestrategy",
+  "version": "1.0.0",
+  "description": "负载均衡算法",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wuxueyu",
+  "license": "ISC",
+  "dependencies": {
+    "loadash": "^1.0.0"
+  }
+}
